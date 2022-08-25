@@ -1,0 +1,328 @@
+header{
+    border-top: 6px solid blue;
+    background-color: rgb(211, 117, 117);
+    color: white;
+}
+
+.container1{
+    border:2px solid red;
+    display: flex;
+    flex-direction: row;
+    gap:5%;
+    margin-bottom: 2%;
+
+}
+
+.basic-info{
+    border:2px solid red;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+
+}
+.t-shirt{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+.size-design{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+}
+.size{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+ 
+}
+
+.design{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+   
+}
+
+.container2{
+    border: 2 px radius red;
+    display: flex;
+    flex-direction: row;
+    gap:5%;
+    margin-bottom: 2%;
+}
+
+.email{
+    border: 2px solid blue;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+
+.color{
+    border: 2px solid blue;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+
+.container3{
+    border: 2px solid red;
+    display: flex;
+    flex-direction:  row;
+    gap:5%;
+    margin-bottom: 2%;
+}
+
+.job-role{
+    border: 2px solid blue;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+
+.other{
+    border: 2px solid blue;
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+}
+
+.register-for-activities{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    margin-bottom: 2%;
+}
+.main{
+    border: 2px solid blue;
+    display: flex;
+    flex-direction: row;
+    margin-right: auto;
+    justify-content: center;
+    text-align: center;
+    margin-top: auto;
+   
+}
+
+.vertical{
+    border: 2px solid blue;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+img{
+   
+    width: 50px;
+}
+.ziua{
+    border: 2px solid red;
+    display: flex;
+    margin-left: 10%;
+}
+
+.js{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+.container4{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    gap:5%;
+    margin-bottom: 2%;
+    
+}
+
+.java-script-libraries{
+    border: 2px solid red;
+    width: 45%;
+}
+
+.libraries{
+    border: 2px soli red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+   
+}
+
+.box{
+    border: 2px solid blue;
+    display: flex;
+    margin-top: auto;
+    flex-direction: row;
+ 
+
+    
+}
+
+.react{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    width: 8%;
+}
+
+.node-js-workshop{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    width: 40%;
+   
+}
+
+.workshop{
+border: 2px solid red;
+display: flex;
+flex-direction: row;
+}
+
+.vertical-node{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.nodejs{
+    border: 2px solid black;
+    display:  flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.nod{
+    border: 2px solid blue;
+    display: flex;
+    flex-direction: column;
+    width: 8%;
+}
+
+.node-js-workshop{
+    border: 2px solid green;
+    display: flex;
+    width: 50%;
+}
+
+.container6{
+    border: 2px solid ;
+    display: flex ;
+    flex-direction: row;
+    gap: 5%;
+}
+
+
+.container-frameworks{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    width: 45%;
+   
+}
+
+.vertical-framework{
+    border: 2px solid black;
+    width: 100%;
+}
+.framework{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    
+}
+.a{
+    border: 2px solid grey;
+    display: flex;
+    flex-direction: column;
+}
+
+.container-build{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+   justify-content: space-between;
+}
+
+.framework{
+    border: 2px solid red;
+    display: flex;
+    flex-direction:row;
+   
+}
+.build{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+}
+
+.b{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+.container7{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    margin-top: 2%;
+}
+
+.container-npm{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    width: 45%;
+    justify-content: space-between;
+}
+
+.vertical-npm{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+.npm{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+}
+
+.container-express{
+border: 2px solid red;
+display: flex;
+flex-direction: row;
+width: 50%;
+justify-content: space-between;
+}
+
+.vertical-express{
+    border:  2px solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+.express{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+}
+
+.total{
+    border: 2px solid red;
+    display: flex;
+align-items: flex-end;
+}
