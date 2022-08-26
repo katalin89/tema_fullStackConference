@@ -281,6 +281,16 @@ flex-direction: row;
     margin-top: 2%;
 }
 
+
+.container8{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;  
+      gap: 5%;
+    margin-top: 2%;
+}
+
 .container-npm{
     border: 2px solid red;
     display: flex;
@@ -309,6 +319,8 @@ width: 50%;
 justify-content: space-between;
 }
 
+
+
 .vertical-express{
     border:  2px solid red;
     display: flex;
@@ -322,7 +334,86 @@ justify-content: space-between;
 }
 
 .total{
+    border: 2px solid rgb(0, 174, 255);
+    display: flex;
+    width: 20%;
+    flex-direction: row;
+    align-content: flex-end;
+}
+
+.container9{
     border: 2px solid red;
     display: flex;
-align-items: flex-end;
+    flex-direction: row;
+    gap: 5%;
+}
+
+.payment-info{
+    border: 2px solid red;
+    display: flex;
+    
+}
+
+.vertical-container-payment{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+
+}
+.container-expiration{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    gap: 5%;
+    margin-bottom: 2%;
+}
+
+.vertical-expdate{
+    border:2px solid blue;
+    width: 50%;
+}
+
+.vertical-expyear{
+    border:2px solid blue;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.container10{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    gap:5%;
+}
+
+.vertical-card{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+
+
+.vertical-zip{
+    border: 2px solid blue;
+    display: flex;
+    width: 50%;
+}
+
+.vertical-cvv{
+    border: 2px solid blue;
+    display: flex;
+    width: 50%;
+
+}
+
+container-zip{
+    border: 2px solid blue;
+    display: flex;
+    width: 45%;
+    flex-direction: row;
+
 }
